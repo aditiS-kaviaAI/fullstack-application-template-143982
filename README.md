@@ -1,1 +1,3 @@
-# fullstack-application-template-143982
+# Project Repository
+
+This is the initial README file for the project.
